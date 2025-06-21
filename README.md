@@ -171,7 +171,7 @@ axios.defaults.baseURL = 'https://yourdomain.com/api/';
 
 | Contributor                                 | Role               | Portfolio                                   |
 | ------------------------------------------- | ------------------ | ------------------------------------------- |
-| [Anup Mishra](https://anupmishra.com/)      | Frontend Developer | Builds UI using React, TypeScript, Tailwind |
+| [Anup Mishra]((https://github.com/Anup2601))      | Frontend Developer | Builds UI using React, TypeScript, Tailwind |
 | [Priyesh Pandey](https://priyeshpandey.in/) | Backend Developer  | DRF, MySQL, RAG analytics, integrations     |
 
 ---
